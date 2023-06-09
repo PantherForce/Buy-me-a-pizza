@@ -9,6 +9,7 @@ function App() {
     <div className="App">
       <Home/>
       <Order/>
+      <Filter/>
      
 
       {/* <BroswerRouter>

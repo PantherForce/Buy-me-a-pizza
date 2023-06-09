@@ -5,6 +5,7 @@ const home = ()=>{
     return (
         <div>
      <Header/>
+     <Filter/>
         </div>
     )
 }
