@@ -1,11 +1,19 @@
+import { Typography, makeStyles } from "@material-ui/core";
 import React from "react";  
 
+const usestyles = makeStyles (()=>({
+       
+}))
+
 const order  = ()=>{
+
+    const classes = usestyles () ;
     return (
         <div>
-        <center>
-            <h1> Order Component </h1>
-        </center>
+        <Typography variant="h5">
+            Order
+        </Typography>
+        
         </div>
     )
 }
