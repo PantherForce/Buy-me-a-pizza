@@ -12,13 +12,13 @@ function App() {
       <Filter/>
      
 
-      <BroswerRouter>
+      {/* <BroswerRouter>
       
       <Routes>
         <Route path="/" element = {<Home/>}> </Route>
         <Route path="/order" element = {<Order/>}></Route>
       </Routes>
-      </BroswerRouter>
+      </BroswerRouter> */}
         
         
     </div>
